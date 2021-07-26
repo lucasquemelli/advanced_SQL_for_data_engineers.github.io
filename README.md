@@ -184,4 +184,4 @@ If any of the UPDATE statements fail, the whole transaction fails. You will roll
 
 ![image](https://user-images.githubusercontent.com/81119854/127029819-2ebd2335-a914-4a59-85ba-d786016e09b7.png)
 
-
+ The last UPDATE statement fails. So the whole transaction fails.
