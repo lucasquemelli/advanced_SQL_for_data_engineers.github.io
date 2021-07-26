@@ -167,3 +167,10 @@ We can observe that the transaction has been executed. But when we observe the t
 2 - The last UPDATE statement tries to buy Rose a pair of Trainers, but her balance becomes insufficient (Current balance of Rose: 100 < Price of Trainers: 300) after buying a pair of Boots. So, the last UPDATE statement fails. Since the whole transaction fails if any of the SQL statements fail, the transaction won't be committed.
 
 3 - The SQLCODE which is a stand-alone host variable contains success/failure/warning information of each SQL statement execution. Now since SQLCODE variable gets reset back as the next SQL statement runs, retcode is our local variable to catch the return value of this SQLCODE. SQLCODE returns negative value for each SQL statement if not executed successfully. So, on any error occurrence, all the changes are rolled back. Commit only takes place after the transaction gets executed successfully without any error.
+
+Task B: practice exercise
+
+Create a stored procedure TRANSACTION_JAMES to execute a transaction based on the following scenario: First buy James 4 pairs of Trainers from ShoeShop. Update his balance as well as the balance of ShoeShop. Also, update the stock of Trainers at ShoeShop. Then attempt to buy James a pair of Brogues from ShoeShop. 
+
+If any of the UPDATE statements fail, the whole transaction fails. You will roll back the transaction. Commit the transaction only if the whole transaction is successful.
+
