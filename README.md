@@ -209,6 +209,12 @@ If any of the UPDATE statements fail, the whole transaction fails. You will roll
 ![image](https://user-images.githubusercontent.com/81119854/127047209-16a0dd92-73d7-433b-8e96-956f801dcd0e.png)
 ![image](https://user-images.githubusercontent.com/81119854/127047403-2511f50b-f4a4-4e83-b231-9fd6b90a5c86.png)
 
+# Join Problems
+
+![image](https://user-images.githubusercontent.com/81119854/127069414-fd392ae4-a69b-486e-9116-0e9a48f70b2f.png)
+![image](https://user-images.githubusercontent.com/81119854/127069440-963269d7-ef24-42ac-9bbf-25a78e30c8f2.png)
+![image](https://user-images.githubusercontent.com/81119854/127069504-d5cc5365-e578-4c10-af4e-5d4c71f6f37e.png)
+
 
 
 
