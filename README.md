@@ -139,3 +139,17 @@ Let's call the UPDATE_SALEPRICE routine once again. We want to update the sale p
 ![image](https://user-images.githubusercontent.com/81119854/127026131-7ffc0d29-2b21-48d5-93b8-5e8a487a9177.png)
 
 
+Task A: example exercise
+
+We will create a stored procedure routine named TRANSACTION_ROSE which will include TCL commands like COMMIT and ROLLBACK.
+
+Now develop the routine based on the given scenario to execute a transaction.
+
+Scenario: Let's buy Rose a pair of Boots from ShoeShop. So we have to update the Rose balance as well as the ShoeShop balance in the BankAccounts table. Then we also have to update Boots stock in the ShoeShop table. After Boots, let's also attempt to buy Rose a pair of Trainers.
+
+![image](https://user-images.githubusercontent.com/81119854/127026667-aebc99f4-9a2d-458d-90a0-447145f8492b.png)
+![image](https://user-images.githubusercontent.com/81119854/127026727-ea4cfbfb-59ef-48d2-b044-9306042073f1.png)
+![image](https://user-images.githubusercontent.com/81119854/127026768-0c7fe8aa-7ef0-4f26-8003-1eac2de8ec3b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127026834-eb6cc7be-64c1-4284-8554-2a4000d3fa25.png)
+
