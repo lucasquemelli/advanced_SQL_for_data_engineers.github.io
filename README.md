@@ -55,3 +55,12 @@ A stored procedure is a set of SQL statements that are stored and executed on th
  
 Also, stored procedures can be useful if you have an SQL query that you write over and over again. You can save it as a stored procedure, and then just call it to execute it. In stored procedures, you can also pass parameters so that a stored procedure can act based on the passed parameter values.
 
+For this lab, we will download the PETSALE-CREATE-v2.sql script, upload it to Db2 console and run it. 
+
+![image](https://user-images.githubusercontent.com/81119854/126999745-89f06ed4-129b-49ea-afc3-ba476f90457b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126999801-3c29c62c-bb3d-482d-becf-e67f88c1643f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126999877-dfbdace2-0004-464d-a688-035220081da6.png)
+
+
