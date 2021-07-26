@@ -49,3 +49,9 @@ Using SELECT, we can verify whether the EMPSALARY view has been deleted or not.
 
 ![image](https://user-images.githubusercontent.com/81119854/126991932-b9940003-a66d-45cf-8c37-dfd233e9ef18.png)
 
+# Stored Procedures 
+
+A stored procedure is a set of SQL statements that are stored and executed on the database server. So instead of sending multiple SQL statements from the client to the server, you encapsulate them in a stored procedure on the server and send one statement from the client to execute them.
+ 
+Also, stored procedures can be useful if you have an SQL query that you write over and over again. You can save it as a stored procedure, and then just call it to execute it. In stored procedures, you can also pass parameters so that a stored procedure can act based on the passed parameter values.
+
