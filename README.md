@@ -120,4 +120,10 @@ The Stored Procedure:
 
 Let's call the UPDATE_SALEPRICE routine. We want to update the sale price of animal with ID 1 having BAD health condition in the PETSALE table.
 
+![image](https://user-images.githubusercontent.com/81119854/127005330-4c5539ce-2499-4e82-a883-ed7c320b8f02.png)
+
+Let's call the UPDATE_SALEPRICE routine once again. We want to update the sale price of animal with ID 3 having WORSE health condition in the PETSALE table.
+
+![image](https://user-images.githubusercontent.com/81119854/127005618-8ec3e4d8-8737-48b2-92a5-3f04cc0c10e5.png)
+
 
