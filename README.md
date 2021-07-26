@@ -111,11 +111,13 @@ For animal with ID XX having BAD health condition, the sale price will be reduce
 For animal with ID YY having WORSE health condition, the sale price will be reduced further by 50%.
 For animal with ID ZZ having other health condition, the sale price won't change.
 
-The Stored Procedure
+The Stored Procedure:
 
 ![image](https://user-images.githubusercontent.com/81119854/127004219-b0f5c8ad-bb4b-4f0c-abdd-c67c2056bdcc.png)
 ![image](https://user-images.githubusercontent.com/81119854/127004298-be900c7d-933c-48cd-bce9-460d6bd98d1b.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/127004341-849d73c4-0fff-40d5-8f14-2c6e5890ab82.png)
+
+Let's call the UPDATE_SALEPRICE routine. We want to update the sale price of animal with ID 1 having BAD health condition in the PETSALE table.
 
 
