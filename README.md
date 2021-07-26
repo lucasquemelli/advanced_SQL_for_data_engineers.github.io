@@ -29,5 +29,15 @@ Using SELECT to query the EMPSALARY view and retrieving all the records:
 
 Exercise 2: Update a View
 
+It now seems that the EMPSALARY view we created in exercise 1 doesn't contain enough salary information, such as max/min salary and the job title of the employees. Let's update the EMPSALARY view:
 
+![image](https://user-images.githubusercontent.com/81119854/126991050-5b5b8cf7-9979-49a8-8059-f99d7eff1d36.png)
+
+We are combining the data of two different tables, EMPLOYEES and JOBS by connecting their respective columns JOB_ID and JOB_IDENT since both the columns contain common unique data.
+
+Using SELECT, we may query the updated EMPSALARY view to retrieve all the records:
+
+![image](https://user-images.githubusercontent.com/81119854/126991473-bd5bab4a-125a-47c6-8ce4-437d418b724c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126991516-4bba85f0-bcbd-47ad-bfed-f8bce19b69f7.png)
 
