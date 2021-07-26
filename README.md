@@ -41,3 +41,11 @@ Using SELECT, we may query the updated EMPSALARY view to retrieve all the record
 
 ![image](https://user-images.githubusercontent.com/81119854/126991516-4bba85f0-bcbd-47ad-bfed-f8bce19b69f7.png)
 
+Exercise 3: Drop a View
+
+![image](https://user-images.githubusercontent.com/81119854/126991777-7e66f5a0-8927-4409-9703-7cb9891fb967.png)
+
+Using SELECT, we can verify whether the EMPSALARY view has been deleted or not. 
+
+![image](https://user-images.githubusercontent.com/81119854/126991932-b9940003-a66d-45cf-8c37-dfd233e9ef18.png)
+
