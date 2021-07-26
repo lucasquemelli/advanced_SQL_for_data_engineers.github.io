@@ -77,4 +77,45 @@ This RETRIEVE_ALL routine will contain a SQL query to retrieve all the records f
 ![image](https://user-images.githubusercontent.com/81119854/127001564-f322001a-0243-41b6-8609-ccc8fc8ccbc4.png)
 ![image](https://user-images.githubusercontent.com/81119854/127001632-846b61c1-b564-46d1-85f1-85c1a2a6d62b.png)
 
+![image](https://user-images.githubusercontent.com/81119854/127001854-fe3c8c82-c654-4a79-a80f-cded34cdac99.png)
+
+To call the RETRIEVE_ALL routine, we may do:
+
+![image](https://user-images.githubusercontent.com/81119854/127002119-b08a8496-24e6-4adf-aab8-308a8f5d81d6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127002167-f59cf5da-13b3-4ce7-b81a-6f73060b64bc.png)
+
+We can view the created stored procedure routine RETRIEVE_ALL. Click on the 3-bar menu icon in the top left corner and click Data > APPLICATION OBJECTS > Procedures. Find the procedure routine RETRIEVE_ALL from Procedures by clicking Select All. Click on the procedure routine RETRIEVE_ALL.
+
+![image](https://user-images.githubusercontent.com/81119854/127002779-a5e1d819-fcdd-41ce-8f2b-5630c21bb419.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127002937-44ecccd3-4150-4dfd-b457-c576fb098aa9.png)
+
+If we wish to drop the stored procedure routine RETRIEVE_ALL, we may do:
+
+![image](https://user-images.githubusercontent.com/81119854/127003136-c215f857-810d-4576-866a-9d8fe9aaae57.png)
+
+Exercise 2
+
+In this exercise, we will create and execute a stored procedure to write/modify data in a table on Db2 using SQL.
+
+We will create a stored procedure routine named UPDATE_SALEPRICE with parameters Animal_ID and Animal_Health.
+
+This UPDATE_SALEPRICE routine will contain SQL queries to update the sale price of the animals in the PETSALE table depending on their health conditions, BAD or WORSE.
+
+This procedure routine will take animal ID and health conditon as parameters which will be used to update the sale price of animal in the PETSALE table by an amount depending on their health condition. 
+
+Suppose:
+
+For animal with ID XX having BAD health condition, the sale price will be reduced further by 25%.
+For animal with ID YY having WORSE health condition, the sale price will be reduced further by 50%.
+For animal with ID ZZ having other health condition, the sale price won't change.
+
+The Stored Procedure
+
+![image](https://user-images.githubusercontent.com/81119854/127004219-b0f5c8ad-bb4b-4f0c-abdd-c67c2056bdcc.png)
+![image](https://user-images.githubusercontent.com/81119854/127004298-be900c7d-933c-48cd-bce9-460d6bd98d1b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127004341-849d73c4-0fff-40d5-8f14-2c6e5890ab82.png)
+
 
