@@ -63,4 +63,18 @@ For this lab, we will download the PETSALE-CREATE-v2.sql script, upload it to Db
 
 ![image](https://user-images.githubusercontent.com/81119854/126999877-dfbdace2-0004-464d-a688-035220081da6.png)
 
+![image](https://user-images.githubusercontent.com/81119854/127000469-12a44284-d0d1-4887-bc85-ff4127ef0769.png)
+![image](https://user-images.githubusercontent.com/81119854/127000519-9fde61cb-10a6-40f6-85fb-a3f5c5ad52bc.png)
+
+Exercise 1
+
+In this exercise, we will create and execute a stored procedure to read data from a table on Db2 using SQL.
+
+We will create a stored procedure routine named RETRIEVE_ALL.
+
+This RETRIEVE_ALL routine will contain a SQL query to retrieve all the records from the PETSALE table, so you don't need to write the same query over and over again. You just call the stored procedure routine to execute the query everytime.
+
+![image](https://user-images.githubusercontent.com/81119854/127001564-f322001a-0243-41b6-8609-ccc8fc8ccbc4.png)
+![image](https://user-images.githubusercontent.com/81119854/127001632-846b61c1-b564-46d1-85f1-85c1a2a6d62b.png)
+
 
