@@ -185,3 +185,34 @@ If any of the UPDATE statements fail, the whole transaction fails. You will roll
 ![image](https://user-images.githubusercontent.com/81119854/127029819-2ebd2335-a914-4a59-85ba-d786016e09b7.png)
 
  The last UPDATE statement fails. So the whole transaction fails.
+
+# Joins
+
+![image](https://user-images.githubusercontent.com/81119854/127046165-90699318-4aca-4fc2-9f02-bbc2d1eeea16.png)
+![image](https://user-images.githubusercontent.com/81119854/127046330-83e41a1a-a903-491a-90eb-40d1721a7d0c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127046361-970d3176-c5ce-4010-a600-a8ebb1914e2c.png)
+![image](https://user-images.githubusercontent.com/81119854/127046498-31018aec-8512-48ef-a088-52778e21a2ab.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127046522-c9f2d664-3282-42fa-bbe1-3cec2d71619d.png)
+![image](https://user-images.githubusercontent.com/81119854/127046630-5b739ab7-b050-4536-b0bf-e7b92adc03b7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127046661-5e211592-57aa-45fb-aaed-9ed5530ead0d.png)
+![image](https://user-images.githubusercontent.com/81119854/127046797-abf972cf-8617-4d6d-bbe5-5d85f17b2a20.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127046829-9e16014c-dea1-42ec-9bea-aa6fdad608ef.png)
+![image](https://user-images.githubusercontent.com/81119854/127046965-447d7e5a-ddfc-4958-bbbf-b0ce2cc47520.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127047001-0d250ee6-d7cb-43eb-95f6-59167b7b949b.png)
+![image](https://user-images.githubusercontent.com/81119854/127047136-128ecc7e-0f89-479a-91f2-8bc1048fd46c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127047209-16a0dd92-73d7-433b-8e96-956f801dcd0e.png)
+![image](https://user-images.githubusercontent.com/81119854/127047403-2511f50b-f4a4-4e83-b231-9fd6b90a5c86.png)
+
+
+
+
+
+
+
+
