@@ -220,6 +220,8 @@ If any of the UPDATE statements fail, the whole transaction fails. You will roll
 ![image](https://user-images.githubusercontent.com/81119854/127156294-fd48361a-98ea-4dae-ab77-1a314afc0112.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/127156526-7958b68c-e384-49ef-a850-45e3a3eb3dd4.png)
+![image](https://user-images.githubusercontent.com/81119854/127159694-d69edf22-eda7-4b7c-a982-e771e30502d7.png)
+![image](https://user-images.githubusercontent.com/81119854/127159745-30e12d94-63cb-45fc-9c0a-197c9d0a097c.png)
 
 
 
